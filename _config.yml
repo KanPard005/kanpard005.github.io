@@ -30,7 +30,8 @@ url: "https://kanadpardeshi.github.io" # the base hostname & protocol for your s
 github_username:  KanPard005
 
 # Build settings
-theme: minima
+# theme: minima
+remote-theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
