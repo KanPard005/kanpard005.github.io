@@ -1,10 +1,9 @@
 ---
-layout: home
 title: About
 ---
 
 {:refdef: style="text-align: center;"}
-![Kanad Pardeshi](/assets/images/me.jpg){: width="400"}
+![Kanad Pardeshi](assets/images/me.jpg){: width="400"}
 {: refdef}
 
 # Who Am I?

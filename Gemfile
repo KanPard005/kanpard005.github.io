@@ -38,3 +38,5 @@ gem "webrick", "~> 1.7"
 gem "jekyll-serve", "~> 1.0.0.rc1"
 
 gem "jekyll-remote-theme"
+
+gem "minimal"
