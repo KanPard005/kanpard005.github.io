@@ -23,6 +23,7 @@ I was previously a Master's in Machine Learning student at CMU for a year, after
 
 I love discussing ideas and am particularly susceptible to being [[https://xkcd.com/356/][nerd sniped]]:
 
+#+attr_html: :style display: block; margin: 0 auto;
 [[https://imgs.xkcd.com/comics/nerd_sniping.png]]
 
 In my free time, I love reading books, playing sports, and have recently started exploring the piano!

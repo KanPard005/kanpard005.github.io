@@ -2,6 +2,14 @@
 #+include: common_parts.org
 #+options: toc:nil
 
+#+begin_export html
+<main>
+<h3>Research</h3>
+#+end_export
 1. *Learning Social Welfare Functions* || /May 2024, arXiv/ || [[https://arxiv.org/abs/2405.17700][(Abstract)]] | [[https://arxiv.org/pdf/2405.17700][(PDF)]]
 
 2. *Staged Diffusion Models with Analytically Designed Hyperparameters* || /NeurIPS 2023 Workshop on Diffusion Models/ || [[https://openreview.net/forum?id=veup37U5Bi][(PDF)]]
+
+#+begin_export html
+</main>
+#+end_export
