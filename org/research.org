@@ -9,11 +9,11 @@
 #+attr_html: :word-wrap break-word
 1. *Learning Social Welfare Functions*, October 2024 \\
    NeurIPS 2024 *Spotlight* \\
-   [[https://arxiv.org/abs/2405.17700][(Abstract)]], [[https://arxiv.org/pdf/2405.17700][PDF]]
+   [[https://arxiv.org/abs/2405.17700][Abstract]], [[https://arxiv.org/pdf/2405.17700][PDF]]
 
 2. *Staged Diffusion Models with Analytically Designed Hyperparameters*, October 2023 \\
    NeurIPS 2023 Workshop on Diffusion Models \\
-   [[https://openreview.net/forum?id=veup37U5Bi][(PDF)]]
+   [[https://openreview.net/forum?id=veup37U5Bi][PDF]]
 
 #+begin_export html
 </main>
