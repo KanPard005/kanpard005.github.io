@@ -5,14 +5,12 @@
 <main>
 <img src="./img/kanad_pardeshi_headshot.jpg" alt="kanad_pardeshi_headshot.jpg" width="50%" style="display: block; margin: 0 auto;" />
 
-<div style="width: 50%; margin: 0 auto">
-<ul style="display:flex; justify-content: space-between; padding-left: 0; margin-left: 0; list-style: none;">
-<li><a href="https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i></a></li>
-<li><a href="https://www.linkedin.com/in/kanad-pardeshi"><i class="fa-brands fa-linkedin"></i></a></li>
-<li><a href="https://github.com/KanPard005"><i class="fa-brands fa-github"></i></a></li>
-</ul>
+<div style="width: 50%; margin: 0 auto; tex-align: center;">
+Check me out on: <i class="fa-brands fa-google-scholar"></i><a href="https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en"></i>Scholar</a> | <i class="fa-brands fa-linkedin"></i><a href="https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en">LinkedIn</a> | <i class="fa-brands fa-github"></i><a href="https://github.com/KanPard005">GitHub</a>
 </div>
 #+end_export
+
+
 
 Hello! I am Kanad (pronounced: Kanād), a first-year Ph.D. student in the Machine Learning Department at Carnegie Mellon University. I am co-advised by [[http://www.cs.cmu.edu/~aarti/][Aarti Singh]] and [[https://bryanwilder.github.io/][Bryan Wilder]].
 
