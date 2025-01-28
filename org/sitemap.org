@@ -1,6 +1,0 @@
-#+TITLE: Sitemap for project personal-website-html
-
-- [[file:blog_index.org][Blog - Index]]
-- [[file:index.org][Kanad Pardeshi]]
-- [[file:research.org][Research]]
-- [[file:common_parts.org][common_parts]]
