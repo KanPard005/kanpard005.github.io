@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-![Kanad Pardeshi](./img/kanad_pardeshi_headshot.jpg)
+![Kanad Pardeshi](./assets/img/kanad_pardeshi_headshot.jpg)
 
 <div style="width: 100%; margin: 0 auto; text-align: center;">
 Check me out on: <i class="fa-brands fa-google-scholar"></i><a href="https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en"></i>Scholar</a> | <i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/kanad-pardeshi/">LinkedIn</a> | <i class="fa-brands fa-github"></i><a href="https://github.com/KanPard005">GitHub</a>
