@@ -3,11 +3,12 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
-    - "assets/"
     - "googledc1c84c464632aff.html"
     - "style.css"
     - "!dump/"
     - "!dump_emacs/"
+  resources:
+    - assets/**
 
 website:
   title: "Kanad Pardeshi"
