@@ -19,6 +19,11 @@ website:
         text: About me
       - href: research.qmd
         text: Research
+  open-graph: true
+  twitter-card:
+    creator: "@kanadpardeshi"
+    image: "./assets/img/kanad_pardeshi_headshot.jpg"
+    description: "PhD student in Machine Learning at CMU. Researching statistical ML, online learning, and decision-making."
 
 format:
   html:
