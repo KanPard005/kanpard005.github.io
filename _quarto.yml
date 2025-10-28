@@ -3,12 +3,12 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
-    - "googledc1c84c464632aff.html"
-    - "style.css"
     - "!dump/"
     - "!dump_emacs/"
   resources:
     - assets/**
+    - "style.css"
+    - "googledc1c84c464632aff.html"
 
 website:
   title: "Kanad Pardeshi"
@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: style.css
     toc: true
     include-in-header:
       - text: |

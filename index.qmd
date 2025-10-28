@@ -4,14 +4,33 @@ title: About Me
 
 ![Kanad Pardeshi](./assets/img/kanad_pardeshi_headshot.jpg)
 
-<div style="width: 100%; margin: 0 auto; text-align: center;">
-<i class="fa-solid fa-file"></i> &nbsp;  [Resume](./assets/pdfs/kanad_onepage.pdf)  | <i class="fa-solid fa-microscope"></i> &nbsp;  [Research](./research.html) 
+::: { .grid .text-center }
 
-<i class="fa-brands fa-google-scholar"></i> &nbsp; [Scholar](https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en) | <i class="fa-brands fa-github"></i> &nbsp; [GitHub](https://github.com/KanPard005)
+:::: {.g-col-4}
+[<i class="fa-solid fa-file"></i> Resume](./assets/pdfs/kanad_onepage.pdf)
+::::
 
-<i class="fa-brands fa-linkedin"></i> &nbsp; [LinkedIn](https://www.linkedin.com/in/kanad-pardeshi/) | <i class="fa-brands fa-x-twitter"></i> &nbsp; [X (Twitter)](https://twitter.com/KanadPardesh55)
+:::: {.g-col-4}
+[<i class="fa-solid fa-microscope"></i> Research](./research.html)
+::::
 
-</div>
+:::: {.g-col-4}
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com/KanPard005)
+::::
+
+:::: {.g-col-4}
+[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/kanad-pardeshi/)
+::::
+
+:::: {.g-col-4}
+[<i class="fa-solid fa-graduation-cap"></i> Scholar](https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en)
+::::
+
+:::: {.g-col-4}
+[<i class="fa-brands fa-x-twitter"></i> X (Twitter)](https://x.com/KanadPardesh55)
+::::
+
+:::
 
 
 Hello! I am Kanad (pronounced: Kanād), a second-year Ph.D. student in the Machine Learning Department at Carnegie Mellon University. I am co-advised by [Aarti Singh](http://www.cs.cmu.edu/~aarti/) and [Bryan Wilder](https://bryanwilder.github.io/).
