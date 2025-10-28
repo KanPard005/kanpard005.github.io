@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-![Kanad Pardeshi](./assets/img/kanad_pardeshi_headshot_compressed.jpg)
+![](./assets/img/kanad_pardeshi_headshot_compressed.jpg){fig-alt="Kanad Pardeshi" width="75%" fig-align="center"}
 
 ::: { .grid .text-center }
 
@@ -43,7 +43,7 @@ I have interned at NUS, Adobe Research and IRISA.
 
 I love discussing ideas of any and all kinds, and am particularly susceptible to being [nerd sniped](https://xkcd.com/356/). I'm open to talk about exciting ideas anytime!
 
-![Nerd sniping](https://imgs.xkcd.com/comics/nerd_sniping.png)
+![](https://imgs.xkcd.com/comics/nerd_sniping.png){fig-alt="Nerd Sniping" width="75%" fig-align="center" .lightbox}
 
 In my free time, I love reading books, playing sports, and hiking. I'm very big on music, listening to a variety of genres, and I enjoy singing too!
 

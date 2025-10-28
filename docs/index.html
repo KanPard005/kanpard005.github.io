@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -135,8 +138,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./assets/img/kanad_pardeshi_headshot_compressed.jpg" class="img-fluid figure-img"></p>
-<figcaption>Kanad Pardeshi</figcaption>
+<p><img src="./assets/img/kanad_pardeshi_headshot_compressed.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%" alt="Kanad Pardeshi"></p>
 </figure>
 </div>
 <div class="grid text-center">
@@ -166,8 +168,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I love discussing ideas of any and all kinds, and am particularly susceptible to being <a href="https://xkcd.com/356/">nerd sniped</a>. I’m open to talk about exciting ideas anytime!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://imgs.xkcd.com/comics/nerd_sniping.png" class="img-fluid figure-img"></p>
-<figcaption>Nerd sniping</figcaption>
+<p><a href="https://imgs.xkcd.com/comics/nerd_sniping.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://imgs.xkcd.com/comics/nerd_sniping.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%" alt="Nerd Sniping"></a></p>
 </figure>
 </div>
 <p>In my free time, I love reading books, playing sports, and hiking. I’m very big on music, listening to a variety of genres, and I enjoy singing too!</p>
@@ -576,6 +577,38 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
