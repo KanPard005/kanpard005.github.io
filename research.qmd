@@ -4,6 +4,7 @@ title: Research
 
 | | Title | Venue | Links |
 |---|---|---|---|
-| 1. | **Learning Social Welfare Functions** <br> October 2024 | NeurIPS 2024 *Spotlight* | [Abstract](https://arxiv.org/abs/2405.17700), [PDF](https://arxiv.org/pdf/2405.17700) |
-| 2. | **Staged Diffucion Models with Analytically Designed Hyperparameters** <br> October 2024 | Neurips 2023 Workshop on Diffusion Models | [PDF](https://openreview.net/forum?id=veup37U5Bi) |
+| 1. | **OEUVRE: OnlinE Unbiased Variance-Reduced loss Estimation** <br> October 2025 | $--$ | [Abstract](https://arxiv.org/abs/2510.22744), [PDF](https://arxiv.org/pdf/2510.22744) |
+| 2. | **Learning Social Welfare Functions** <br> October 2024 | NeurIPS 2024 *Spotlight* | [Abstract](https://arxiv.org/abs/2405.17700), [PDF](https://arxiv.org/pdf/2405.17700) |
+| 3. | **Staged Diffucion Models with Analytically Designed Hyperparameters** <br> October 2023 | Neurips 2023 Workshop on Diffusion Models | [PDF](https://openreview.net/forum?id=veup37U5Bi) |
 

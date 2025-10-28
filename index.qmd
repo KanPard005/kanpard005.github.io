@@ -9,9 +9,9 @@ Check me out on: <i class="fa-brands fa-google-scholar"></i><a href="https://sch
 </div>
 
 
-Hello! I am Kanad (pronounced: Kanād), a first-year Ph.D. student in the Machine Learning Department at Carnegie Mellon University. I am co-advised by [Aarti Singh](http://www.cs.cmu.edu/~aarti/) and [Bryan Wilder](https://bryanwilder.github.io/).
+Hello! I am Kanad (pronounced: Kanād), a second-year Ph.D. student in the Machine Learning Department at Carnegie Mellon University. I am co-advised by [Aarti Singh](http://www.cs.cmu.edu/~aarti/) and [Bryan Wilder](https://bryanwilder.github.io/).
 
-I am broadly interested in statistical ML, ML theory and ML algorithms. More specifically, I am excited by problems in sequential decision-making, causal inference, and anything statistical! You can find my CV (updated Jan 2024) [here](file:assets/pdfs/CV_Kanad_Pardeshi.pdf). 
+I am broadly interested in statistical ML, ML theory and ML algorithms. More specifically, I am excited by problems in sequential decision-making, causal inference, and anything statistical! You can find my Resume (updated Oct 2025) [here](file:assets/pdfs/kanad_onepage.pdf). 
 
 I was previously a Master's in Machine Learning student at CMU for a year, after which I switched to the Ph.D. program. Prior to that, spent four wonderful years as an undergraduate at the Indian Institute of Technology (IIT) Bombay. I majored in Computer Science (Honors with Minor in Applied Statistics and Informatics), conducting research with [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/).
 
