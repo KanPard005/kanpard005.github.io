@@ -5,7 +5,12 @@ title: About Me
 ![Kanad Pardeshi](./assets/img/kanad_pardeshi_headshot.jpg)
 
 <div style="width: 100%; margin: 0 auto; text-align: center;">
-Check me out on: <i class="fa-brands fa-google-scholar"></i><a href="https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en"></i>Scholar</a> | <i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/kanad-pardeshi/">LinkedIn</a> | <i class="fa-brands fa-github"></i><a href="https://github.com/KanPard005">GitHub</a>
+<i class="fa-solid fa-file"></i> &nbsp;  [Resume](./assets/pdfs/kanad_onepage.pdf)  | <i class="fa-solid fa-microscope"></i> &nbsp;  [Research](./research.html) 
+
+<i class="fa-brands fa-google-scholar"></i> &nbsp; [Scholar](https://scholar.google.com/citations?user=gqcZsEAAAAAJ&hl=en) | <i class="fa-brands fa-github"></i> &nbsp; [GitHub](https://github.com/KanPard005)
+
+<i class="fa-brands fa-linkedin"></i> &nbsp; [LinkedIn](https://www.linkedin.com/in/kanad-pardeshi/) | <i class="fa-brands fa-x-twitter"></i> &nbsp; [X (Twitter)](https://twitter.com/KanadPardesh55)
+
 </div>
 
 
