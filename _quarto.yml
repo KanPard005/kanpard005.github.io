@@ -12,6 +12,7 @@ project:
 
 website:
   title: "Kanad Pardeshi"
+  description: "Personal website of Kanad Pardeshi, PhD student in Machine Learning at CMU. Research in statistical ML, online learning, and decision-making."
   navbar:
     left:
       - href: index.qmd
