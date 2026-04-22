@@ -4,8 +4,8 @@ title: Research
 
 | | Title | Venue | Links |
 |---|---|---|---|
-| 1. | **Online Social Welfare Function-based Resource Allocation** <br> February 2026 | $--$ | [Abstract](https://arxiv.org/abs/2602.01400), [PDF](https://arxiv.org/pdf/2602.01400) |
-| 2. | **OEUVRE: OnlinE Unbiased Variance-Reduced loss Estimation** <br> October 2025 | AISTATS 2026 *Spotlight* | [Abstract](https://arxiv.org/abs/2510.22744), [PDF](https://arxiv.org/pdf/2510.22744) |
-| 3. | **Learning Social Welfare Functions** <br> October 2024 | NeurIPS 2024 *Spotlight* | [Abstract](https://arxiv.org/abs/2405.17700), [PDF](https://arxiv.org/pdf/2405.17700) |
+| 1. | **Online Social Welfare Function-based Resource Allocation** <br> February 2026 | *Submitted to ICML 2026* | [Abstract](https://arxiv.org/abs/2602.01400), [PDF](https://arxiv.org/pdf/2602.01400) |
+| 2. | **OEUVRE: OnlinE Unbiased Variance-Reduced loss Estimation** <br> October 2025 | AISTATS 2026 *Spotlight* <br> (2.5% of all submissions) | [Abstract](https://arxiv.org/abs/2510.22744), [PDF](https://arxiv.org/pdf/2510.22744) |
+| 3. | **Learning Social Welfare Functions** <br> October 2024 | NeurIPS 2024 *Spotlight* <br> (2.1% of all submissions)| [Abstract](https://arxiv.org/abs/2405.17700), [PDF](https://arxiv.org/pdf/2405.17700) |
 | 4. | **Staged Diffusion Models with Analytically Designed Hyperparameters** <br> October 2023 | NeurIPS 2023 Workshop on Diffusion Models | [PDF](https://openreview.net/forum?id=veup37U5Bi) |
 
